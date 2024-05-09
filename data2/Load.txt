@@ -1,0 +1,95 @@
+Instrument file : [C:\AITest\setup\Instruments.config]
+Process Type : wxFlow
+JOB Control Type : Library
+Start Robot Interface : 6430
+Loading Job : D:\Tesfile\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418.wxFlow ...
+RobotC6430 Service starting...
+Success to connect client socket : OK
+Job Netwrk Client Netwrk : OK
+Load estiming [D14] : 2210251000A02-574F-8BC2-EBCE7093424E.estiming : OK
+[D14] [2210251000A02-574F-8BC2-EBCE7093424E] : Sync module Comp(5) Drv(6)
+[INFO]EX_ACCAL RTD AlignTime = 15.783
+=============================
+Total Instruments : 3
+=============================
+[0] (D14) HDM800 : Rev(0400) Serial(2210251000A02-574F-8BC2-EBCE7093424E)
+			[D14] Comm Firmware version is the latest(1C). 
+			[D14] TP-1 Firmware version is the latest(2FC). 
+			[D14] TP-2 Firmware version is the latest(2FC). 
+			[D14] Control Firmware version is the latest(B). 
+ 1. (U1) UTP128 : Id(10) Rev(2601) Serial(2105120200ABC-3E73-9085-282D23235AC4)
+               COMM FPGA Firmware ver : 1802
+               CBIT FPGA Firmware ver : 0x0000
+ 2. (V1) SMU10 : Id(9) Rev(0927) Serial(22103132006E3-3333-B8A0-838BC24F84A6)
+              [V1] First FPGA Firmware version(0x000C)
+              [V1] Second FPGA Firmware version(0x000C)
+[D14] : Sync Cal Pass (P:2909:0)
+##########################################
+#    You must select pattern loadtype    #
+##########################################
+Loading Pattern Master : D:\Tesfile\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418\Configuration\PatternMaster.txt
+        Channel File   : ChannelMap.txt
+Initialized...OK
+../Out/Signals.module.gz : OK
+../Out/DCExec.module.gz : OK
+../Out/DCseq.module.gz : OK
+../Out/ACSpec.module.gz : OK
+../Out/Timeset.module.gz : OK
+../Out/PatExec.vox.gz : OK
+Pattern Master loaded
+Pattern Loaded : OK
+######################
+#  WXFlow  Test Flow #
+( 0)        nop  0  0 (Grp Test            ) - AITemplete   (Group) : OK
+( 1)        nop  0  0 (OPEN_SHORT_TEST     ) - UserFunc (OPEN_SHORT_TEST) : OK
+( 2)        nop  0  0 (CKCKB_TEST          ) - UserFunc (CKCKB_TEST) : OK
+( 3)        nop  0  0 (ICC_TEST            ) - UserFunc (ICC_TEST) : OK
+( 4)        nop  0  0 (vbg_osc_QA_test     ) - UserFunc (vbg_osc_QA_test) : OK
+( 5)        nop  0  0 (ACMP_QA_test        ) - UserFunc (ACMP_QA_test) : OK
+( 6)        nop  0  0 (LUT_QA_test         ) - UserFunc (LUT_QA_test) : OK
+( 7)        nop  0  0 (PR_QA_test          ) - UserFunc (PR_QA_test) : OK
+( 8)        nop  0  0 (LS8C10099T_V_code_CHECK) - UserFunc (LS8C10099T_V_code_CHECK) : OK
+( 9)        nop  0  0 (LS8C10099T_V_ATE    ) - UserFunc (LS8C10099T_V_ATE) : OK
+########  END  ######
+[Pattern Loaded Information]
+0 Signals D:\Tesfile\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418\Out\Signals.module.gz 0 0 0 0 0 0 0
+1 DCExec D:\Tesfile\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418\Out\DCExec.module.gz 0 0 0 0 0 0 0
+2 DCseq D:\Tesfile\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418\Out\DCseq.module.gz 0 0 0 0 0 0 0
+3 ACSpec D:\Tesfile\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418\Out\ACSpec.module.gz 0 0 0 0 0 0 0
+4 Timeset D:\Tesfile\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418\Out\Timeset.module.gz 0 0 0 0 0 0 0
+5 PatExec D:\Tesfile\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418\Out\PatExec.vox.gz 3341 125257 128598 0 3341 0 60
+[INFO]D14 : Driver(15.773):(15.611:15.943) Comparator(15.799):(15.793:15.897) TDR(10.000:10.313(0.313):1.625V)
+[INFO]External CalVer(A002) RTDAlignTime(15.783)  Driver(15.942708)  Comparator(15.792969)
+[INFO]Load Default RTD Value(15.7829) RTDSetValue(6)
+[INFO]Load Default RTD RemainValue (0.7829)
+EQExec CompleteLoaded
+[Timing Accel Mode] : fast
+Slot-12 [D14] : set LPD-1
+PG Stop Mode : StopOnEnd
+EQHardWare CompleteLoaded
+EQDCTester CompleteLoaded
+Execute User Load : OK
+ === System validate check : start ===
+Check System Validateion : Pass
+ === System validate check : end ===
+Job Datalog Wait : OK (0)
+Job Datalog Client PIPE : OK (0)
+Success to connect client socket : OK
+Job Netwrk Client Netwrk : OK (0)
+Library : [Release DLL]
+JobType  : [wxFlow]
+Job      : [D:\Tesfile\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418.wxFlow]
+Path     : [D:\Tesfile\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418]
+File     : [LS98102_V_TestProgram_REV03.uxo]
+WaferMap : []
+DSP      : [No Use]
+IDP      : [no]
+Sort     : []
+Yield Protect  :  Not Applied
+Online Mode
+D:\Tesfile\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418\LS8C10099T_V_ROOM_QA_testprogame_REV03_20240418.wxFlow : JobControl Library .. OK
+Create Shared DUT Structure : Sucess
+Job Loaded : Sucess
+#################################################
+####               Load Complete             ####
+#################################################

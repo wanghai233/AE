@@ -1,0 +1,90 @@
+[Header]
+Business_Scene=FT1
+Customer_ID=KIQ
+Customer_LotNo=D08J07
+Date_Code=2415
+Device_Code=FT1
+Device_Name=LS4V44057V
+FAIL_BIN=2 3 4 5
+FileName=C:/AITest/Log/LS4V44057V_LS4V44057V_Yuexin_FT_testprogram_REV5_D08J07_KIQC15F001.001_FT1_NA_E3200-6237_20240421170608.stdf
+Handler_ID=E3200-2447
+Handler_Type=HT_NIT-ALPHAS
+Item=NA
+Loadboard_ID=SLB1-KIQ-001
+Long_Device=NA
+Lot_Type=R
+Merge_LotNO=D08J07-1
+Mode_Code=FT1
+Mother_Fab=SMIC
+Operator_ID=1
+PASS_BIN=1
+PID_Name=TLS4V44057V01
+PIN_Count=14
+PO_Number=20240407001
+Package_Type=FCQFN 1.6X2X0.55 14
+Program_Folder=LS4V44057V_Yuexin_FT_testprogram_REV5
+Program_Name=LS4V44057V_Yuexin_FT_testprogram_REV5
+Quantity=329524
+Site_Alarm_Number=0
+Soak_Time=0
+Socket_ID="SOC-KIQ-QFN14-PNK-16-20-14L-P0.40-001;SOC-KIQ-QFN14-PNK-16-20-14L-P0.40-002"
+Sub_LotNo=KIQC15F001.001
+TestCode=R1
+Test_Bin_No=ALL
+Test_Flow=LS4V44057V_Yuexin_FT_testprogram_REV5.wxFlow
+Test_Temp=25
+Tester_ID=E3200-6237
+Wafer_Version=U1 XRB276
+Zipfile_Name=LS4V44057V_Yuexin_FT_testprogram_REV5.zip
+efuse_check_flag=N
+runtype=MP
+wafer_Lot%20ID=D08J07
+start_time=2024/4/21 17:04:10
+end_time=2024/04/21 17:06:08 
+
+
+
+code LS3307_PRO_R01 16bit_chuck_sum is df4f 
+ 
+code LS3307_PRO_R01 32bit_chuck_sum is 8f0c503e 
+ 
+code LS8C10026T_PRO_rev01 16bit_chuck_sum is 3cfa 
+ 
+code LS8C10026T_PRO_rev01 32bit_chuck_sum is 4cb1f03c 
+ 
+code LS8C10001T_V_r002_20230331 16bit_chuck_sum is a949 
+ 
+code LS8C10001T_V_r002_20230331 32bit_chuck_sum is 1ccb8c72 
+ 
+code LS8C10099T_V_r001_20240417 16bit_chuck_sum is 9d75 
+ 
+code LS8C10099T_V_r001_20240417 32bit_chuck_sum is a821f545 
+ 
+code LS8C10056T_V_r001_20240417 16bit_chuck_sum is a02b 
+ 
+code LS8C10056T_V_r001_20240417 32bit_chuck_sum is cec4d151 
+ 
+code chuck_sum is pass 
+ 
+txt code LS3307_code_progame.txt 16bit_chuck_sum is df4f 
+ 
+txt code LS3307_code_progame.txt 32bit_chuck_sum is 8f0c503e 
+ 
+txt code LS8C10026T_code_progame.txt 16bit_chuck_sum is 3cfa 
+ 
+txt code LS8C10026T_code_progame.txt 32bit_chuck_sum is 4cb1f03c 
+ 
+txt code LS8C10001T_V_code_program.txt 16bit_chuck_sum is a949 
+ 
+txt code LS8C10001T_V_code_program.txt 32bit_chuck_sum is 1ccb8c72 
+ 
+txt code LS8C10099T_V_code_program.txt 16bit_chuck_sum is 9d75 
+ 
+txt code LS8C10099T_V_code_program.txt 32bit_chuck_sum is a821f545 
+ 
+txt code LS8C10056T_V_code_program.txt 16bit_chuck_sum is a02b 
+ 
+txt code LS8C10056T_V_code_program.txt 32bit_chuck_sum is cec4d151 
+ 
+txt code chuck_sum is pass 
+ 

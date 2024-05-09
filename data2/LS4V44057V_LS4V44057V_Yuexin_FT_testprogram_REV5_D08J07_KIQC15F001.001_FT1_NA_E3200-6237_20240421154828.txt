@@ -1,0 +1,794 @@
+[Header]
+Business_Scene=FT1
+Customer_ID=KIQ
+Customer_LotNo=D08J07
+Date_Code=2415
+Device_Code=FT1
+Device_Name=LS4V44057V
+FAIL_BIN=2 3 4 5
+FileName=C:/AITest/Log/LS4V44057V_LS4V44057V_Yuexin_FT_testprogram_REV5_D08J07_KIQC15F001.001_FT1_NA_E3200-6237_20240421154828.stdf
+Handler_ID=E3200-2447
+Handler_Type=HT_NIT-ALPHAS
+Item=NA
+Loadboard_ID=SLB1-KIQ-001
+Long_Device=NA
+Lot_Type=R
+Merge_LotNO=D08J07-1
+Mode_Code=FT1
+Mother_Fab=SMIC
+Operator_ID=1
+PASS_BIN=1
+PID_Name=TLS4V44057V01
+PIN_Count=14
+PO_Number=20240407001
+Package_Type=FCQFN 1.6X2X0.55 14
+Program_Folder=LS4V44057V_Yuexin_FT_testprogram_REV5
+Program_Name=LS4V44057V_Yuexin_FT_testprogram_REV5
+Quantity=329524
+Site_Alarm_Number=0
+Soak_Time=0
+Socket_ID="SOC-KIQ-QFN14-PNK-16-20-14L-P0.40-001;SOC-KIQ-QFN14-PNK-16-20-14L-P0.40-002"
+Sub_LotNo=KIQC15F001.001
+TestCode=R1
+Test_Bin_No=ALL
+Test_Flow=LS4V44057V_Yuexin_FT_testprogram_REV5.wxFlow
+Test_Temp=25
+Tester_ID=E3200-6237
+Wafer_Version=U1 XRB276
+Zipfile_Name=LS4V44057V_Yuexin_FT_testprogram_REV5.zip
+efuse_check_flag=N
+runtype=MP
+wafer_Lot%20ID=D08J07
+start_time=2024/4/21 15:45:33
+end_time=2024/04/21 15:48:28 
+
+
+
+TCNT# 0        SITE# 0
+NO Site  Result  TestName           Signal          Measure   LowLimit  HighLimit   Force
+200  0   PASS  OPEN_SHORT_TEST      VPP_D           -507.18671 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO0_D         -629.75979 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO1_D         -631.01083 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO2_D         -619.95441 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO3_D         -610.47029 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPO0_D          -614.64286 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO4_D         -612.67787 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO5_D         -612.83726 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO6_D         -616.72962 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO7_D         -612.83308 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO8_D         -613.30330 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO9_D         -610.99291 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  POWER_SHORT          VDD             -83.32706 nA   -25.00000uA   25.00000uA   500.00000mV
+code LS3307_PRO_R01 16bit_chuck_sum is df4f 
+ 
+code LS3307_PRO_R01 32bit_chuck_sum is 8f0c503e 
+ 
+code LS8C10026T_PRO_rev01 16bit_chuck_sum is 3cfa 
+ 
+code LS8C10026T_PRO_rev01 32bit_chuck_sum is 4cb1f03c 
+ 
+code LS8C10001T_V_r002_20230331 16bit_chuck_sum is a949 
+ 
+code LS8C10001T_V_r002_20230331 32bit_chuck_sum is 1ccb8c72 
+ 
+code LS8C10099T_V_r001_20240417 16bit_chuck_sum is 9d75 
+ 
+code LS8C10099T_V_r001_20240417 32bit_chuck_sum is a821f545 
+ 
+code LS8C10056T_V_r001_20240417 16bit_chuck_sum is a02b 
+ 
+code LS8C10056T_V_r001_20240417 32bit_chuck_sum is cec4d151 
+ 
+code chuck_sum is pass 
+ 
+txt code LS3307_code_progame.txt 16bit_chuck_sum is df4f 
+ 
+txt code LS3307_code_progame.txt 32bit_chuck_sum is 8f0c503e 
+ 
+txt code LS8C10026T_code_progame.txt 16bit_chuck_sum is 3cfa 
+ 
+txt code LS8C10026T_code_progame.txt 32bit_chuck_sum is 4cb1f03c 
+ 
+txt code LS8C10001T_V_code_program.txt 16bit_chuck_sum is a949 
+ 
+txt code LS8C10001T_V_code_program.txt 32bit_chuck_sum is 1ccb8c72 
+ 
+txt code LS8C10099T_V_code_program.txt 16bit_chuck_sum is 9d75 
+ 
+txt code LS8C10099T_V_code_program.txt 32bit_chuck_sum is a821f545 
+ 
+txt code LS8C10056T_V_code_program.txt 16bit_chuck_sum is a02b 
+ 
+txt code LS8C10056T_V_code_program.txt 32bit_chuck_sum is cec4d151 
+ 
+txt code chuck_sum is pass 
+ 
+200  0   PASS  code_check_sum       code_check_sum 1.00000      1.00000     1.00000 
+300  0    PASS   CKCKB_TEST i2c_Test_w.ck_write   Tset_Default   FC(0)      FA(0)
+300  0    PASS   CKCKB_TEST i2c_Test_r.ck_read   Tset_Default   FC(0)      FA(0)
+300  0    PASS   CKCKB_TEST i2c_Test_w.ckb_write   Tset_Default   FC(0)      FA(0)
+300  0    PASS   CKCKB_TEST i2c_Test_r.ckb_read   Tset_Default   FC(0)      FA(0)
+310  0    PASS   ICC_test_5P65 i2c_Test_w.icc_int_code_write   Tset_Default   FC(0)      FA(0)
+310  0    PASS   ICC_test_5P65 i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //0
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //1
+
+ 0   0   0   0   0   0   0   0   0   0  3f   0   0   0  f0  ff  //2
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //3
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //4
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //5
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //6
+
+ 0   0   0   0   0   0   0   0   0   0  10   0   2   0   0   0  //7
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //8
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //9
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //a
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //b
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //c
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //d
+
+ 0   0   0   0   0   0   0   0   0   0   1   2   0   0   0   0  //e
+
+ 0   0   0   0  78   0  3c  5a   0   0   0   0   0   0   0  a5  //f
+
+
+
+310  0   PASS  ICC_test_5P65        VDD             403.33086 nA   -2.00000uA   10.00000uA   5.65000V
+320  0    PASS   vbg_osc_QA_test i2c_Test_w.QA_vbg_int_code_cm02B   Tset_Default   FC(0)      FA(0)
+320  0    PASS   vbg_osc_QA_test i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+ 0   0   0   0   0   0   0  a0  fa  a9  bf  fa   0  b0  f8  e3  //0
+
+1b   c  c1  c0   4  43  13   c  4e  30  3c  c1  80  cd  c1  90  //1
+
+ 5  c3  16   c  5d  30  7c  c1  10  e2   0  e0  fb   0   0   0  //2
+
+c1   0   0   0   0   0   0  10   c   0   0   0   0   0   0   0  //3
+
+ 0   0  30  c2   0   5  8c   3  46   2  63  81  d1  c0  78  60  //4
+
+54  30  32   7   0   0  30  c2   8  63  10   3  46   2  63  81  //5
+
+d1  c0  78  60  54  30  32   7   0   0   0   0   0   3   0   3  //6
+
+33   0   0   0  33   0   0   0   0   0   0   0   2   0   0   0  //7
+
+ 2  40   8   1  80   4   0  ff  f8   0   0   0   0   0   0  ff  //8
+
+f8   0   0   0   0   0   0  80  80   0   0   0   0   0   0   0  //9
+
+ 1   0   0   4   0   0  10   0   0  40   0   0   0   1   0   0  //a
+
+ 4   0   0  10   0   0  40   0   0   0   1   0   0   4   0   0  //b
+
+10   0  20   0   0   0   0   0   0   0   0   0   0   0   0   0  //c
+
+ 0   8  21  84   0   0   0   0   8  42  80   0   1   2   4   8  //d
+
+10  20  40  80   0   1   2  20   0   0   1   2   0   0   0   0  //e
+
+ 0   1   0  80  70   8  3c  5a   0  1d   0   0   0  32  2f  a5  //f
+
+
+
+320  0   PASS  vbg_osc_QA_test      vbg_QA         1229.57861 mV     1226.80005 mV    1233.19995 mV
+320  0    PASS   vbg_osc_QA_test i2c_Test_w.QA_vbg_int_code_cm02B   Tset_Default   FC(0)      FA(0)
+320  0    PASS   vbg_osc_QA_test i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+ 0   0   0   0   0   0   0  a0  fa  a9  bf  fa   0  b0  f8  e3  //0
+
+1b   c  c1  c0   4  43  13   c  4e  30  3c  c1  80  cd  c1  90  //1
+
+ 5  c3  16   c  5d  30  7c  c1  10  e2   0  e0  fb   0   0   0  //2
+
+c1   0   0   0   0   0   0  10   c   0   0   0   0   0   0   0  //3
+
+ 0   0  30  c2   0   5  8c   3  46   2  63  81  d1  c0  78  60  //4
+
+54  30  32   7   0   0  30  c2   8  63  10   3  46   2  63  81  //5
+
+d1  c0  78  60  54  30  32   7   0   0   0   0   0   3   0   3  //6
+
+33   0   0   0  33   0   0   0   0   0   0   0   0   0   0   0  //7
+
+ 2  40   8   1  80   4   0  ff  f8   0   0   0   0   0   0  ff  //8
+
+f8   0   0   0   0   0   0  80  80   0   0   0   0   0   0   0  //9
+
+ 1   0   0   4   0   0  10   0   0  40   0   0   0   1   0   0  //a
+
+ 4   0   0  10   0   0  40   0   0   0   1   0   0   4   0   0  //b
+
+10   0  20   0   0   0   0   0   0   0   0   0   0   0   0   0  //c
+
+ 0   8  21  84   0   0   0   0   8  42  80   0   1   2   4   8  //d
+
+10  20  40  80   0   1   2  20   0   0   1   2   0   0   0   0  //e
+
+ 1   1   0  84  70   8  3c  5a   0  1d   0   0   0  32  2f  a5  //f
+
+
+
+320  0   PASS  vbg_osc_QA_test      rcosc_QA       2493.11890 KHz     2425.00000 KHz    2575.00000 KHz
+320  0    PASS   vbg_osc_QA_test i2c_Test_w.QA_vbg_int_code_cm02B   Tset_Default   FC(0)      FA(0)
+320  0    PASS   vbg_osc_QA_test i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+ 0   0   0   0   0   0   0  a0  fa  a9  bf  fa   0  b0  f8  e3  //0
+
+1b   c  c1  c0   4  43  13   c  4e  30  3c  c1  80  cd  c1  90  //1
+
+ 5  c3  16   c  5d  30  7c  c1  10  e2   0  e0  fb   0   0   0  //2
+
+c1   0   0   0   0   0   0  10   c   0   0   0   0   0   0   0  //3
+
+ 0   0  30  c2   0   5  8c   3  46   2  63  81  d1  c0  78  60  //4
+
+54  30  32   7   0   0  30  c2   8  63  10   3  46   2  63  81  //5
+
+d1  c0  78  60  54  30  32   7   0   0   0   0   0   3   0   3  //6
+
+33   0   0   0  33   0   0   0   0   0   0   0   0   0   0   0  //7
+
+ 2  40   8   1  80   4   0  ff  f8   0   0   0   0   0   0  ff  //8
+
+f8   0   0   0   0   0   0  80  80   0   0   0   0   0   0   0  //9
+
+ 1   0   0   4   0   0  10   0   0  40   0   0   0   1   0   0  //a
+
+ 4   0   0  10   0   0  40   0   0   0   1   0   0   4   0   0  //b
+
+10   0  20   0   0   0   0   0   0   0   0   0   0   0   0   0  //c
+
+ 0   8  21  84   0   0   0   0   8  42  80   0   1   2   4   8  //d
+
+10  20  40  80   0   1   2  20   0   0   1   2   0   0   0   0  //e
+
+ 1   1   0  80  70   9  3c  5a   0  1d   0   0   0  32  2f  a5  //f
+
+
+
+320  0   PASS  vbg_osc_QA_test      lcosc_QA       1999.34998 Hz     1948.00000 Hz    2046.00000 Hz
+330  0    PASS   ACMP_QA_test i2c_Test_w.QA_vbg_int_code_cm02B   Tset_Default   FC(0)      FA(0)
+330  0    PASS   ACMP_QA_test i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+ 0   0   0   0   0   0   0  a0  fa  a9  bf  fa   0  b0  f8  e3  //0
+
+1b   c  c1  c0   4  43  13   c  4e  30  3c  c1  80  cd  c1  90  //1
+
+ 5  c3  16   c  5d  30  7c  c1  10  e2   0  e0  fb   0   0   0  //2
+
+c1   0   0   0   0   0   0  10   c   0   0   0   0   0   0   0  //3
+
+ 0   0  30  c2   0   5  8c   3  46   2  63  81  d1  c0  78  60  //4
+
+54  30  32   7   0   0  30  c2   8  63  10   3  46   2  63  81  //5
+
+d1  c0  78  60  54  30  32   7   0   0   0   0   0   3   0   3  //6
+
+33   0   0   0  33   0   0   0   0   0   0   0   2   0   0   0  //7
+
+ 2  40   8   1  80   4   0  ff  f8   0   0   0   0   0   0  ff  //8
+
+f8   0   0   0   0   0   0  80  80   0   0   0   0   0   0   0  //9
+
+ 1   0   0   4   0   0  10   0   0  40   0   0   0   1   0   0  //a
+
+ 4   0   0  10   0   0  40   0   0   0   1   0   0   4   0   0  //b
+
+10   0  20   0   0   0   0   0   0   0   0   0   0   0   0   0  //c
+
+ 0   8  21  84   0   0   0   0   8  42  80   0   1   2   4   8  //d
+
+10  20  40  80   0   1   2  20   0   0   1   2   0   0   0   0  //e
+
+ 1   1   0  80  70   8  3c  5a   0  1d   0   0   0  32  2f  a5  //f
+
+
+
+330  0    PASS   ACMP_QA_test acmp_Test.acmp_trim   acmp_Default   FC(0)      FA(0)
+330  0    PASS   ACMP_QA_test acmp_Test.acmp_trim   acmp_Default   FC(0)      FA(0)
+330  0   PASS  ACMP_QA_test         ACMPH_996      0.00000 mV     0.00000 mV    10.00000 mV
+330  0   PASS  ACMP_QA_test         ACMPL_996      0.00000 mV     0.00000 mV    10.00000 mV
+330  0   PASS  ACMP_QA_test         ACMPH_1004     100.00000 mV     90.00000 mV    100.00000 mV
+330  0   PASS  ACMP_QA_test         ACMPL_1004     100.00000 mV     90.00000 mV    100.00000 mV
+340  0    PASS   LUT_QA_test i2c_Test_w.QA_vbg_int_code_cm02B   Tset_Default   FC(0)      FA(0)
+340  0    PASS   LUT_QA_test i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+ 0   0   0   0   0   0   0  a0  fa  a9  bf  fa   0  b0  f8  e3  //0
+
+1b   c  c1  c0   4  43  13   c  4e  30  3c  c1  80  cd  c1  90  //1
+
+ 5  c3  16   c  5d  30  7c  c1  10  e2   0  e0  fb   0   0   0  //2
+
+c1   0   0   0   0   0   0  10   c   0   0   0   0   0   0   0  //3
+
+ 0   0  30  c2   0   5  8c   3  46   2  63  81  d1  c0  78  60  //4
+
+54  30  32   7   0   0  30  c2   8  63  10   3  46   2  63  81  //5
+
+d1  c0  78  60  54  30  32   7   0   0   0   0   0   3   0   3  //6
+
+33   0   0   0  33   0   0   0   0   0   0   0   2   0   0   0  //7
+
+ 2  40   8   1  80   4   0  ff  f8   0   0   0   0   0   0  ff  //8
+
+f8   0   0   0   0   0   0  80  80   0   0   0   0   0   0   0  //9
+
+ 1   0   0   4   0   0  10   0   0  40   0   0   0   1   0   0  //a
+
+ 4   0   0  10   0   0  40   0   0   0   1   0   0   4   0   0  //b
+
+10   0  20   0   0   0   0   0   0   0   0   0   0   0   0   0  //c
+
+ 0   8  21  84   0   0   0   0   8  42  80   0   1   2   4   8  //d
+
+10  20  40  80   0   1   2  20   0   0   1   2   0   0   0   0  //e
+
+ 0   1   0  80  70   8  3c  5a   0  1d   0   0   0  32  2f  a5  //f
+
+
+
+340  0    PASS   LUT_QA_test lut_Test.lut   lut_Default   FC(0)      FA(0)
+350  0    PASS   PR_QA_test i2c_Test_w.QA_pr_int_code_write   Tset_Default   FC(0)      FA(0)
+350  0    PASS   PR_QA_test pr_test.pr   pr_Default   FC(0)      FA(0)
+550  0    PASS   LS8C10099T_V_code_READ i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+35  ed  fd  f3  2f  fe   0  90  fd   0   0   0   0   0   0  80  //0
+
+ 3  34  6f  80  24   1  de  f8   f   0   0  eb  e6  fb  b9  bf  //1
+
+6c  8c  e7  31  20  c8  88   0   0   0   0  e0  fb   0   0   0  //2
+
+a0  b7  3d  1b   0   0   0  20  36  8b   d   0   0   0   0   0  //3
+
+35  50   0   0   0  c0  93  b4  45  ba  20   5   0  c8  b9  d6  //4
+
+6c  6d  3e  53  c8   3  b1  b0   8  80  f2  72  fa  12  bc   4  //5
+
+ 0  40  18  e7  34   0   0  22   0   0   c  54  54   0   0   0  //6
+
+ 3   8   3  70  70  30   0   0   0   0   0   0   2   0  40   4  //7
+
+ 4   0   0   0   0   0   2  a4  a1   0   0   0   0   0   0  d1  //8
+
+ 0   0   0   0   0   0   0   0   0   2   2   e  34   0   0   0  //9
+
+47  80  11  1f   1  46  7c   4  18  71  27  c0  94  5d   0  73  //a
+
+ 6   0   0  c0   b  30  82  21  80  44  87   0  12  1d   2  48  //b
+
+14   0   0   0   0  13   0  9b  9b  9b  ee  ee   0  27  4d  4d  //c
+
+4d   0  10   2   0   0   0   0  c0  b5  ca  94  29  23  48  91  //d
+
+a0  b2  47   4   1   0   0   0   c   a   1   2   0   0  20  4a  //e
+
+ 0   0   0   0  70   0  3c  5a   0  1d   0   0   0  32  2f  a5  //f
+
+
+
+550  0    PASS   LS8C10099T_V_code_READ i2c_Test_r.LS8C10099T_V_code_read   Tset_Default   FC(0)      FA(0)
+560  0   PASS  LS8C10099T_V_ATE     GPIO9_D         1.71492 mV   -500.00000mV   1.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO5_D         2.33274 mV   -500.00000mV   1.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO9_D         4.99415 V   3.50000V   6.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO5_D         4.99443 V   3.50000V   6.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO9_D         2.12056 mV   -500.00000mV   1.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO5_D         4.99461 V   3.50000V   6.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO9_D         4.99428 V   3.50000V   6.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO5_D         2.33274 mV   -500.00000mV   1.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO9_D         2.04897 mV   -500.00000mV   1.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO5_D         2.34230 mV   -500.00000mV   1.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO9_D         4.99417 V   3.50000V   6.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO5_D         4.99461 V   3.50000V   6.50000V   100.00000nA
+560  0    PASS   LS8C10099T_V_ATE LS8C10099T_V_ATE.LS8C10099T_V_ATE_PATTERN   LS8C10099T_V   FC(0)      FA(0)
+-------------------   ------------
+Site   Fail   Total    Cate   Bin    XCoord   YCoord         TestTime(2571.59ms)
+-------------------   ------------
+   0      0       1       1     1       1       0
+TCNT# 1        SITE# 0
+NO Site  Result  TestName           Signal          Measure   LowLimit  HighLimit   Force
+200  0   PASS  OPEN_SHORT_TEST      VPP_D           -560.60863 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO0_D         -627.28912 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO1_D         -628.28672 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO2_D         -604.71070 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO3_D         -611.03278 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPO0_D          -604.50423 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO4_D         -603.14626 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO5_D         -608.14017 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO6_D         -606.17232 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO7_D         -606.11773 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO8_D         -608.33389 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  OPEN_SHORT_TEST      GPIO9_D         -608.26325 mV   -1.00000V   -300.00001mV   -100.00000uA
+200  0   PASS  POWER_SHORT          VDD             120.13869 nA   -25.00000uA   25.00000uA   500.00000mV
+code LS3307_PRO_R01 16bit_chuck_sum is df4f 
+ 
+code LS3307_PRO_R01 32bit_chuck_sum is 8f0c503e 
+ 
+code LS8C10026T_PRO_rev01 16bit_chuck_sum is 3cfa 
+ 
+code LS8C10026T_PRO_rev01 32bit_chuck_sum is 4cb1f03c 
+ 
+code LS8C10001T_V_r002_20230331 16bit_chuck_sum is a949 
+ 
+code LS8C10001T_V_r002_20230331 32bit_chuck_sum is 1ccb8c72 
+ 
+code LS8C10099T_V_r001_20240417 16bit_chuck_sum is 9d75 
+ 
+code LS8C10099T_V_r001_20240417 32bit_chuck_sum is a821f545 
+ 
+code LS8C10056T_V_r001_20240417 16bit_chuck_sum is a02b 
+ 
+code LS8C10056T_V_r001_20240417 32bit_chuck_sum is cec4d151 
+ 
+code chuck_sum is pass 
+ 
+txt code LS3307_code_progame.txt 16bit_chuck_sum is df4f 
+ 
+txt code LS3307_code_progame.txt 32bit_chuck_sum is 8f0c503e 
+ 
+txt code LS8C10026T_code_progame.txt 16bit_chuck_sum is 3cfa 
+ 
+txt code LS8C10026T_code_progame.txt 32bit_chuck_sum is 4cb1f03c 
+ 
+txt code LS8C10001T_V_code_program.txt 16bit_chuck_sum is a949 
+ 
+txt code LS8C10001T_V_code_program.txt 32bit_chuck_sum is 1ccb8c72 
+ 
+txt code LS8C10099T_V_code_program.txt 16bit_chuck_sum is 9d75 
+ 
+txt code LS8C10099T_V_code_program.txt 32bit_chuck_sum is a821f545 
+ 
+txt code LS8C10056T_V_code_program.txt 16bit_chuck_sum is a02b 
+ 
+txt code LS8C10056T_V_code_program.txt 32bit_chuck_sum is cec4d151 
+ 
+txt code chuck_sum is pass 
+ 
+200  0   PASS  code_check_sum       code_check_sum 1.00000      1.00000     1.00000 
+300  0    PASS   CKCKB_TEST i2c_Test_w.ck_write   Tset_Default   FC(0)      FA(0)
+300  0    PASS   CKCKB_TEST i2c_Test_r.ck_read   Tset_Default   FC(0)      FA(0)
+300  0    PASS   CKCKB_TEST i2c_Test_w.ckb_write   Tset_Default   FC(0)      FA(0)
+300  0    PASS   CKCKB_TEST i2c_Test_r.ckb_read   Tset_Default   FC(0)      FA(0)
+310  0    PASS   ICC_test_5P65 i2c_Test_w.icc_int_code_write   Tset_Default   FC(0)      FA(0)
+310  0    PASS   ICC_test_5P65 i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //0
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //1
+
+ 0   0   0   0   0   0   0   0   0   0  3f   0   0   0  f0  ff  //2
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //3
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //4
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //5
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //6
+
+ 0   0   0   0   0   0   0   0   0   0  10   0   2   0   0   0  //7
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //8
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //9
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //a
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //b
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //c
+
+ 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  //d
+
+ 0   0   0   0   0   0   0   0   0   0   1   2   0   0   0   0  //e
+
+ 0   0   0   0  78   0  3c  5a   0   0   0   0   0   0   0  a5  //f
+
+
+
+310  0   PASS  ICC_test_5P65        VDD             328.59901 nA   -2.00000uA   10.00000uA   5.65000V
+320  0    PASS   vbg_osc_QA_test i2c_Test_w.QA_vbg_int_code_cm02B   Tset_Default   FC(0)      FA(0)
+320  0    PASS   vbg_osc_QA_test i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+ 0   0   0   0   0   0   0  a0  fa  a9  bf  fa   0  b0  f8  e3  //0
+
+1b   c  c1  c0   4  43  13   c  4e  30  3c  c1  80  cd  c1  90  //1
+
+ 5  c3  16   c  5d  30  7c  c1  10  e2   0  e0  fb   0   0   0  //2
+
+c1   0   0   0   0   0   0  10   c   0   0   0   0   0   0   0  //3
+
+ 0   0  30  c2   0   5  8c   3  46   2  63  81  d1  c0  78  60  //4
+
+54  30  32   7   0   0  30  c2   8  63  10   3  46   2  63  81  //5
+
+d1  c0  78  60  54  30  32   7   0   0   0   0   0   3   0   3  //6
+
+33   0   0   0  33   0   0   0   0   0   0   0   2   0   0   0  //7
+
+ 2  40   8   1  80   4   0  ff  f8   0   0   0   0   0   0  ff  //8
+
+f8   0   0   0   0   0   0  80  80   0   0   0   0   0   0   0  //9
+
+ 1   0   0   4   0   0  10   0   0  40   0   0   0   1   0   0  //a
+
+ 4   0   0  10   0   0  40   0   0   0   1   0   0   4   0   0  //b
+
+10   0  20   0   0   0   0   0   0   0   0   0   0   0   0   0  //c
+
+ 0   8  21  84   0   0   0   0   8  42  80   0   1   2   4   8  //d
+
+10  20  40  80   0   1   2  20   0   0   1   2   0   0   0   0  //e
+
+ 0   1   0  80  70   8  3c  5a   0  1e   0   0   c  33  2a  a5  //f
+
+
+
+320  0   PASS  vbg_osc_QA_test      vbg_QA         1229.59119 mV     1226.80005 mV    1233.19995 mV
+320  0    PASS   vbg_osc_QA_test i2c_Test_w.QA_vbg_int_code_cm02B   Tset_Default   FC(0)      FA(0)
+320  0    PASS   vbg_osc_QA_test i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+ 0   0   0   0   0   0   0  a0  fa  a9  bf  fa   0  b0  f8  e3  //0
+
+1b   c  c1  c0   4  43  13   c  4e  30  3c  c1  80  cd  c1  90  //1
+
+ 5  c3  16   c  5d  30  7c  c1  10  e2   0  e0  fb   0   0   0  //2
+
+c1   0   0   0   0   0   0  10   c   0   0   0   0   0   0   0  //3
+
+ 0   0  30  c2   0   5  8c   3  46   2  63  81  d1  c0  78  60  //4
+
+54  30  32   7   0   0  30  c2   8  63  10   3  46   2  63  81  //5
+
+d1  c0  78  60  54  30  32   7   0   0   0   0   0   3   0   3  //6
+
+33   0   0   0  33   0   0   0   0   0   0   0   0   0   0   0  //7
+
+ 2  40   8   1  80   4   0  ff  f8   0   0   0   0   0   0  ff  //8
+
+f8   0   0   0   0   0   0  80  80   0   0   0   0   0   0   0  //9
+
+ 1   0   0   4   0   0  10   0   0  40   0   0   0   1   0   0  //a
+
+ 4   0   0  10   0   0  40   0   0   0   1   0   0   4   0   0  //b
+
+10   0  20   0   0   0   0   0   0   0   0   0   0   0   0   0  //c
+
+ 0   8  21  84   0   0   0   0   8  42  80   0   1   2   4   8  //d
+
+10  20  40  80   0   1   2  20   0   0   1   2   0   0   0   0  //e
+
+ 1   1   0  84  70   8  3c  5a   0  1e   0   0   c  33  2a  a5  //f
+
+
+
+320  0   PASS  vbg_osc_QA_test      rcosc_QA       2501.05054 KHz     2425.00000 KHz    2575.00000 KHz
+320  0    PASS   vbg_osc_QA_test i2c_Test_w.QA_vbg_int_code_cm02B   Tset_Default   FC(0)      FA(0)
+320  0    PASS   vbg_osc_QA_test i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+ 0   0   0   0   0   0   0  a0  fa  a9  bf  fa   0  b0  f8  e3  //0
+
+1b   c  c1  c0   4  43  13   c  4e  30  3c  c1  80  cd  c1  90  //1
+
+ 5  c3  16   c  5d  30  7c  c1  10  e2   0  e0  fb   0   0   0  //2
+
+c1   0   0   0   0   0   0  10   c   0   0   0   0   0   0   0  //3
+
+ 0   0  30  c2   0   5  8c   3  46   2  63  81  d1  c0  78  60  //4
+
+54  30  32   7   0   0  30  c2   8  63  10   3  46   2  63  81  //5
+
+d1  c0  78  60  54  30  32   7   0   0   0   0   0   3   0   3  //6
+
+33   0   0   0  33   0   0   0   0   0   0   0   0   0   0   0  //7
+
+ 2  40   8   1  80   4   0  ff  f8   0   0   0   0   0   0  ff  //8
+
+f8   0   0   0   0   0   0  80  80   0   0   0   0   0   0   0  //9
+
+ 1   0   0   4   0   0  10   0   0  40   0   0   0   1   0   0  //a
+
+ 4   0   0  10   0   0  40   0   0   0   1   0   0   4   0   0  //b
+
+10   0  20   0   0   0   0   0   0   0   0   0   0   0   0   0  //c
+
+ 0   8  21  84   0   0   0   0   8  42  80   0   1   2   4   8  //d
+
+10  20  40  80   0   1   2  20   0   0   1   2   0   0   0   0  //e
+
+ 1   1   0  80  70   9  3c  5a   0  1e   0   0   c  33  2a  a5  //f
+
+
+
+320  0   PASS  vbg_osc_QA_test      lcosc_QA       2003.98621 Hz     1948.00000 Hz    2046.00000 Hz
+330  0    PASS   ACMP_QA_test i2c_Test_w.QA_vbg_int_code_cm02B   Tset_Default   FC(0)      FA(0)
+330  0    PASS   ACMP_QA_test i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+ 0   0   0   0   0   0   0  a0  fa  a9  bf  fa   0  b0  f8  e3  //0
+
+1b   c  c1  c0   4  43  13   c  4e  30  3c  c1  80  cd  c1  90  //1
+
+ 5  c3  16   c  5d  30  7c  c1  10  e2   0  e0  fb   0   0   0  //2
+
+c1   0   0   0   0   0   0  10   c   0   0   0   0   0   0   0  //3
+
+ 0   0  30  c2   0   5  8c   3  46   2  63  81  d1  c0  78  60  //4
+
+54  30  32   7   0   0  30  c2   8  63  10   3  46   2  63  81  //5
+
+d1  c0  78  60  54  30  32   7   0   0   0   0   0   3   0   3  //6
+
+33   0   0   0  33   0   0   0   0   0   0   0   2   0   0   0  //7
+
+ 2  40   8   1  80   4   0  ff  f8   0   0   0   0   0   0  ff  //8
+
+f8   0   0   0   0   0   0  80  80   0   0   0   0   0   0   0  //9
+
+ 1   0   0   4   0   0  10   0   0  40   0   0   0   1   0   0  //a
+
+ 4   0   0  10   0   0  40   0   0   0   1   0   0   4   0   0  //b
+
+10   0  20   0   0   0   0   0   0   0   0   0   0   0   0   0  //c
+
+ 0   8  21  84   0   0   0   0   8  42  80   0   1   2   4   8  //d
+
+10  20  40  80   0   1   2  20   0   0   1   2   0   0   0   0  //e
+
+ 1   1   0  80  70   8  3c  5a   0  1e   0   0   c  33  2a  a5  //f
+
+
+
+330  0    PASS   ACMP_QA_test acmp_Test.acmp_trim   acmp_Default   FC(0)      FA(0)
+330  0    PASS   ACMP_QA_test acmp_Test.acmp_trim   acmp_Default   FC(0)      FA(0)
+330  0   PASS  ACMP_QA_test         ACMPH_996      0.00000 mV     0.00000 mV    10.00000 mV
+330  0   PASS  ACMP_QA_test         ACMPL_996      0.00000 mV     0.00000 mV    10.00000 mV
+330  0   PASS  ACMP_QA_test         ACMPH_1004     100.00000 mV     90.00000 mV    100.00000 mV
+330  0   PASS  ACMP_QA_test         ACMPL_1004     100.00000 mV     90.00000 mV    100.00000 mV
+340  0    PASS   LUT_QA_test i2c_Test_w.QA_vbg_int_code_cm02B   Tset_Default   FC(0)      FA(0)
+340  0    PASS   LUT_QA_test i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+ 0   0   0   0   0   0   0  a0  fa  a9  bf  fa   0  b0  f8  e3  //0
+
+1b   c  c1  c0   4  43  13   c  4e  30  3c  c1  80  cd  c1  90  //1
+
+ 5  c3  16   c  5d  30  7c  c1  10  e2   0  e0  fb   0   0   0  //2
+
+c1   0   0   0   0   0   0  10   c   0   0   0   0   0   0   0  //3
+
+ 0   0  30  c2   0   5  8c   3  46   2  63  81  d1  c0  78  60  //4
+
+54  30  32   7   0   0  30  c2   8  63  10   3  46   2  63  81  //5
+
+d1  c0  78  60  54  30  32   7   0   0   0   0   0   3   0   3  //6
+
+33   0   0   0  33   0   0   0   0   0   0   0   2   0   0   0  //7
+
+ 2  40   8   1  80   4   0  ff  f8   0   0   0   0   0   0  ff  //8
+
+f8   0   0   0   0   0   0  80  80   0   0   0   0   0   0   0  //9
+
+ 1   0   0   4   0   0  10   0   0  40   0   0   0   1   0   0  //a
+
+ 4   0   0  10   0   0  40   0   0   0   1   0   0   4   0   0  //b
+
+10   0  20   0   0   0   0   0   0   0   0   0   0   0   0   0  //c
+
+ 0   8  21  84   0   0   0   0   8  42  80   0   1   2   4   8  //d
+
+10  20  40  80   0   1   2  20   0   0   1   2   0   0   0   0  //e
+
+ 0   1   0  80  70   8  3c  5a   0  1e   0   0   c  33  2a  a5  //f
+
+
+
+340  0    PASS   LUT_QA_test lut_Test.lut   lut_Default   FC(0)      FA(0)
+350  0    PASS   PR_QA_test i2c_Test_w.QA_pr_int_code_write   Tset_Default   FC(0)      FA(0)
+350  0    PASS   PR_QA_test pr_test.pr   pr_Default   FC(0)      FA(0)
+550  0    PASS   LS8C10099T_V_code_READ i2c_Test_r.read_allregister   Tset_Default   FC(0)      FA(0)
+ ------- site 0---------
+
+//0  1   2   3   4   5   6   7   8   9   a   b   c   d   e   f 
+
+35  ed  fd  f3  2f  fe   0  90  fd   0   0   0   0   0   0  80  //0
+
+ 3  34  6f  80  24   1  de  f8   f   0   0  eb  e6  fb  b9  bf  //1
+
+6c  8c  e7  31  20  c8  88   0   0   0   0  e0  fb   0   0   0  //2
+
+a0  b7  3d  1b   0   0   0  20  36  8b   d   0   0   0   0   0  //3
+
+ a  4e   0   0   0  c0  93  b4  45  ba  20   5   0  c8  b9  d6  //4
+
+6c  6d  3e  53  c8   3  b1  b0   8  80  f2  72  fa  12  bc   4  //5
+
+ 0  40  18  e7  34   0   0  22   0   0   c  54  54   0   0   0  //6
+
+ 3   8   3  70  70  30   0   0   0   0   0   0   2   0  40   4  //7
+
+ 4   0   0   0   0   0   2  a4  a1   0   0   0   0   0   0  d1  //8
+
+ 0   0   0   0   0   0   0   0   0   2   2   e  34   0   0   0  //9
+
+47  80  11  1f   1  46  7c   4  18  71  27  c0  94  5d   0  73  //a
+
+ 6   0   0  c0   b  30  82  21  80  44  87   0  12  1d   2  48  //b
+
+14   0   0   0   0  13   0  9b  9b  9b  ee  ee   0  27  4d  4d  //c
+
+4d   0  10   2   0   0   0   0  c0  b5  ca  94  29  23  48  91  //d
+
+a0  b2  47   4   1   0   0   0   c   a   1   2   0   0  20  4a  //e
+
+ 0   0   0   0  70   0  3c  5a   0  1e   0   0   c  33  2a  a5  //f
+
+
+
+550  0    PASS   LS8C10099T_V_code_READ i2c_Test_r.LS8C10099T_V_code_read   Tset_Default   FC(0)      FA(0)
+560  0   PASS  LS8C10099T_V_ATE     GPIO9_D         1.94399 mV   -500.00000mV   1.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO5_D         2.29451 mV   -500.00000mV   1.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO9_D         4.99591 V   3.50000V   6.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO5_D         4.99631 V   3.50000V   6.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO9_D         1.89149 mV   -500.00000mV   1.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO5_D         4.99637 V   3.50000V   6.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO9_D         4.99622 V   3.50000V   6.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO5_D         2.42831 mV   -500.00000mV   1.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO9_D         1.92012 mV   -500.00000mV   1.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO5_D         2.32796 mV   -500.00000mV   1.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO9_D         4.99596 V   3.50000V   6.50000V   100.00000nA
+560  0   PASS  LS8C10099T_V_ATE     GPIO5_D         4.99631 V   3.50000V   6.50000V   100.00000nA
+560  0    PASS   LS8C10099T_V_ATE LS8C10099T_V_ATE.LS8C10099T_V_ATE_PATTERN   LS8C10099T_V   FC(0)      FA(0)
+-------------------   ------------
+Site   Fail   Total    Cate   Bin    XCoord   YCoord         TestTime(2585.18ms)
+-------------------   ------------
+   0      0       2       1     1       3       0

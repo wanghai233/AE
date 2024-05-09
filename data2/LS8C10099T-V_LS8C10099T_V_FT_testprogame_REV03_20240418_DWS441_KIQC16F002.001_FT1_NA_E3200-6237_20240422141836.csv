@@ -1,0 +1,49 @@
+[Header]
+Business_Scene:,FT1
+Customer_ID:,KIQ
+Customer_LotNo:,DWS441
+Date_Code:,2416
+Device_Code:,FT1
+Device_Name:,LS8C10099T-V
+FAIL_BIN:,2 3 4 5
+FileName:,C:/AITest/Log/LS4V44057V_LS4V44057V_Yuexin_FT_testprogram_REV5_D08J07_KIQC15F001.001_FT1_NA_E3200-6237_20240421170608.stdf
+Handler_ID:,E3200-2250
+Handler_Type:,HT_C6800T
+Item:,NA
+Loadboard_ID:,SLB1-KIQ-001
+Long_Device:,LS8C10099T-V
+Lot_Type:,R
+Merge_LotNO:,DWS441-1
+Mode_Code:,FT1
+Mother_Fab:,SMIC
+Operator_ID:,1
+PASS_BIN:,1
+PID_Name:,TLS8C10099T-V01
+PIN_Count:,14
+PO_Number:,20240403005
+PROBERCARD_ID:,SLB1-KIQ-001
+Package_Type:,FCQFN 3X3X0.75 14
+Program_Folder:,LS8C10099T_V_FT_testprogame_REV03_20240418
+Program_Name:,LS8C10099T_V_FT_testprogame_REV03_20240418
+Quantity:,4000
+Site_Alarm_Number:,0
+Soak_Time:,0
+Socket_ID:,"SOC-KIQ-QFN14-PNK-16-20-14L-P0.40-001;SOC-KIQ-QFN14-PNK-16-20-14L-P0.40-002"
+Sub_LotNo:,KIQC16F002.001
+TestCode:,1
+Test_Bin_No:,1
+Test_Flow:,LS8C10099T_V_FT_testprogame_REV03_20240418.wxFlow
+Test_Temp:,25
+Tester_ID:,E3200-6237
+Wafer_Version:,UI XRB276D
+Zipfile_Name:,LS8C10099T_V_FT_testprogame_REV03_20240418.zip
+efuse_check_flag:,N
+runtype:,MP
+wafer_Lot%20ID:,DWS441
+start_time:, 2024/04/22 14:18:29,
+end_time:, 2024/04/22 14:18:36,
+Tnumber:,,,,,,
+UpLimit:,,,,,,
+DownLimit:,,,,,,
+Unit:,,,,,,
+Serial#,Site#, ProberX#,ProberY#,HW Bin#,SW Bin#,
